@@ -4,8 +4,8 @@
 
 ## Group 1
 
-* [Page 2](group-1/page-2.md)
+* [Prueba de paǵina](group-1/prueba-de-pa-ina.md)
 
 ***
 
-* [Page 3](page-3.md)
+* [Page otra](page-otra.md)

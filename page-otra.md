@@ -1,3 +1,3 @@
-# Page 3
+# Page otra
 
 Esta es otra página
